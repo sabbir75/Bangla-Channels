@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1,ATN Bangla
+http://telelivetv.webredirect.org:8081/globeworld2020/atnbangla/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Channel 24
+http://tempsun.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Gaan Bangla
+http://telelivetv.webredirect.org:8081/globeworld2020/gaanbangla/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,NANDAN TV
+http://nandansyst.com/hls/nandan.m3u8
+
+#EXTM3U
+#EXTINF:-1,NTV
+http://telelivetv.webredirect.org:8081/globeworld2020/ntv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,RTV
+http://telelivetv.webredirect.org:8081/globeworld2020/rtv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,BTV
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Shomoy
+http://tempsun.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Maasranga
+http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Nagorik TV
+http://telelivetv.webredirect.org:8081/globeworld2020/nagoriktv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Jamuna TV
+http://tempsun.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Independent TV
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Channel 9
+http://telelivetv.webredirect.org:8081/globeworld2020/channel9/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Boishakhi TV
+http://telelivetv.webredirect.org:8081/globeworld2020/boishakhi/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,GTV
+http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,SA TV
+http://telelivetv.webredirect.org:8081/globeworld2020/satv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Channel S
+http://cdn01.eiego.net:8081/playout/channels/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Mohona TV
+http://telelivetv.webredirect.org:8081/globeworld2020/mohona/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,DBC HD
+http://telelivetv.webredirect.org:8081/globeworld2020/dbc/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+
+#EXTM3U
+#EXTINF:-1,Ekushey TV
+http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/chunks.m3u8
