@@ -81,3 +81,27 @@ http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTM3U
 #EXTINF:-1,Ekushey TV
 http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Ekattor TV
+http://telelivetv.webredirect.org:8081/globeworld2020/ekattor/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Asian TV
+http://telelivetv.webredirect.org:8081/globeworld2020/asian/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Desi TV
+http://telelive.livebox.co.in/deshitvhls/live.m3u8
+
+#EXTM3U
+#EXTINF:-1,Channel Q
+http://telelive.livebox.co.in/channelqhls/live.m3u8
+
+#EXTM3U
+#EXTINF:-1,Dipto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Desh TV
+http://telelivetv.webredirect.org:8081/globeworld2020/desh/chunks.m3u8
