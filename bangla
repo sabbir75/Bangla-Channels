@@ -19,6 +19,14 @@ http://nandansyst.com/hls/nandan.m3u8
 http://telelivetv.webredirect.org:8081/globeworld2020/ntv/chunks.m3u8
 
 #EXTM3U
+#EXTINF:-1,NTV (US Pacific Time)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+
+#EXTM3U
+#EXTINF:-1,NTV (UK Time)
+https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+
+#EXTM3U
 #EXTINF:-1,RTV
 http://telelivetv.webredirect.org:8081/globeworld2020/rtv/chunks.m3u8
 
